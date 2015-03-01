@@ -1,0 +1,37 @@
+.navbar-default .navbar-brand {
+	font-weight: bold;
+}
+
+
+.jumbotron {
+	padding: 60px;
+	margin-bottom: 30px;
+	color: inherit;
+	background-color: #eee;
+	border-top: 35px solid #140040;
+	border-bottom: 5px solid #140040;
+}
+
+.container .jumbotron, .container-fluid .jumbotron {
+	border-radius: 0px;
+}
+
+.container .jumbotron, .container-fluid .jumbotron {
+	text-align: center;
+}
+
+.carousel-status {
+	text-align: center;
+}
+
+#current {
+	background-color: #EBEBEB;
+	padding: 10px;
+	margin-bottom: 30px;
+	text-align: center;
+}
+
+#recent {
+	padding: 10px;
+	margin-bottom: 30px;
+}
